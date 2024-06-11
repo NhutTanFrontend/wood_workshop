@@ -55,9 +55,9 @@ function App(){
     },
     { path: '*', element: <NotF /> },
   ],
-  {
-    basename: '/test/NhutTan/noithat'
-  }
+  // {
+  //   basename: '/test/NhutTan/noithat'
+  // }
 );
 
  
